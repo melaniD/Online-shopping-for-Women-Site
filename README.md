@@ -1,7 +1,5 @@
 # Sunday Market
 # Online-shopping-for-Women-Site
- 
-# Project-Online-Shopping-Website.
 # Introduction
 online shopping ecommerce stores or websites, may be the next future of shopping. 
 this ecommerce websites may be the reason for the closing down of the physical stores and malls. 
