@@ -18,7 +18,7 @@ Manage Inventory, Manage Users
 plan for whole project
 WEEK 8 creat github account
 WEEK 9 Readme file
-WEEK 16 I will finshed mu Project
+WEEK 16 I will finshed my Project
 
 By, Hunde Melat LinkedIn GitHub
 
