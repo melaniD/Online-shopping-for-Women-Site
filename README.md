@@ -44,6 +44,4 @@ Manage Inventory, Manage Users
 By, Hunde Melat LinkedIn GitHub
  Home page on Github <a> link https://melanid.github.io/Online-shopping-for-Women-Site/
  
- Home Page on glitch  https://melanid-online-shopping-for-women-site.glitch.me/
-
-
+ # live demo https://melanid-online-shopping-for-women-site.glitch.me/
