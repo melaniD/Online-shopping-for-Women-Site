@@ -7,6 +7,13 @@ const passport = require("passport");
 const session = require("express-session");
 const flash = require("express-flash");
 const override = require("method-override");
+
+const productRoutes = require("./routes/product");
+const orderRoutes = require("./routes/order");
+const userRoutes = require('./routes/user');
+const adminRoutes = require("./routes/admin");
+
+
 const app = express();
 const users = [];
 app.use(express.static("public"));
