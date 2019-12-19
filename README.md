@@ -1,4 +1,4 @@
-# Sunday Market
+# Zack Market
 # Online-shopping-for-Women-Site
 ![Capture](https://user-images.githubusercontent.com/56972782/68369639-a003aa80-00ef-11ea-8839-25fd73db14e8.JPG)
 
@@ -36,15 +36,22 @@ Manage Inventory, Manage Users
 * WEEK 11 Backend Optimization
 * WEEK 12 Backend Debugging and Stress testing
 * WEEK 13 Update Backend Features
-* WEEK 14
-* WEEK 15
-* WEEK 16 I will finshed my Project
+* WEEK 14 Getting ready the user account with back end technology.
+* WEEK 15 Create and Delete method has been implemented from CRUD operation
+ * WEEK 16 finished the CRUD operation 
+
+ * Front-End : HTML , CSS, BOOT STRAP
+
+* back-end: Node.js,  paypal-sdk, mongodb, heroku
+
+
 
 
 By, Hunde Melat LinkedIn GitHub
  Home page on Github <a> link https://melanid.github.io/Online-shopping-for-Women-Site/
  
  # live demo https://melanid-online-shopping-for-women-site.glitch.me/
+ 
 #### online demo [click here](https://zack-ecommerce-reactjs.herokuapp.com/)
 
-#### front-end codes [click here](https://github.com/levelopers/Ecommerce-Reactjs)
+
