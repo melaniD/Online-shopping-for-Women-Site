@@ -52,5 +52,5 @@ By, Hunde Melat LinkedIn GitHub
  
  # live demo https://melanid-online-shopping-for-women-site.glitch.me/
  
-#### online demo [click here](https://zack-ecommerce-reactjs.herokuapp.com/
+ 
 
